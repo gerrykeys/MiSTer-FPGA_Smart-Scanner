@@ -36,7 +36,7 @@ However, when MiSTer is used through the native UI interface, it can browse arch
 When this happens, MiSTer handles unpacking the ROM and provides it as input to the relevant core.
 
 The **MiSTer FPGA – Smart Launcher** application therefore handles the unpacking of zip files in the same way.<br>
-For further info [here](https://github.com/gerrykeys/MiSTer-FPGA_Smart-Scanner)
+For further info [here](https://github.com/gerrykeys/MiSTer-FPGA_Smart-Launcher)
 
 # How to generate database
 
