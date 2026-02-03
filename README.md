@@ -54,7 +54,7 @@ and thus recover the configuration of the systems previously added.
 
 ### Romset Input Folder and Mister FPGA romset folder
 It is important to select the correct paths so that the ROMs can be run without issues.<br>
-The root path of the folder containing the ROMs to be scanned must follow the same folder structure of the the root folder in the of the roms in MiSTer FPGA.
+The root path of the folder containing the ROMs to be scanned must follow the same folder structure of the the root folder where the specific romset is placed in MiSTer FPGA.
 
 ## Metadata
 
