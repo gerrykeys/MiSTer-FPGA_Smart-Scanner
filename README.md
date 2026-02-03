@@ -6,7 +6,7 @@
 ## Overview
 **MiSTeR FPGA - Smart Scanner** is a tool which let you generates a database of your
 romsets that can be explored using **MiSTer FPGA - Smart Launcher** web application.<br>
-You can found more info about the web-app [here](https://github.com/gerrykeys/MiSTer-FPGA_Smart-Scanner).
+You can found more info about the web-app [here](https://github.com/gerrykeys/MiSTer-FPGA_Smart-Launcher).
 
 ## OS Compatiblity
 The tool is written to be cross-platform, but at the moment only the Windows x64 version is available.
