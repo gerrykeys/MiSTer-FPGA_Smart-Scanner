@@ -88,26 +88,11 @@ You have three options here:
 - **User**: You can provide your own CSV file containing the metadata. You can download the CSV template file from this repository.
 
 ### User Metadata (TAGS)
-The CSV file includes a column called TAGS.<br>
+You can use the user csv templates (downloadable from the repository) if you wants to define your metadata.
+The CSV file includes also a column called TAGS.<br>
 In this column you can define all your custom metadata for the specific ROM.<br>
 Its value must follow the same convention used by PigSaint dataset. You can find more information [here](https://github.com/PigSaint/GameDataBase)
 
-The following table list all the user csv files with associated system
-
-| Systems                        | USER CSV FILENAME     |
-| ------------------------------ |:---------------------:|
-| Arcade                         | arcade.csv            |
-| Neo Geo                        | neogeo.csv            |
-| Nintendo / Famicom             | nes.csv               |
-| Nintendo 64                    | nintendo_64.csv       |
-| Nintendo Game Boy              | gameboy.csv           |
-| Nintendo Game Boy Advance      | gameboy_advance.csv   |
-| Nintendo Game Boy Color        | gameboy_color.csv     |
-| Sega Master System             | master_system.csv     |
-| Sega Mega Drive                | mega_drive.csv        |
-| Sega Genesis                   | genesis.csv           |
-| Super Nintendo / Super Famicom | snes.csv              |
-| PC Engine / Turbo Grafx16      | turbo_grafx16.csv     |
 
 ## Generate Database
 <img src="doc/images/5.png" alt="drawing" width="500"/>
